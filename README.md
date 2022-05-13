@@ -32,7 +32,7 @@
 
 ### Deploy on Railway
 
-[![Deploy To Railway](https://railway.app/button.svg)](https://railway.app)
+[![Deploy To Railway](https://railway.app/button.svg)](https://railway.app/deploy?template=https://github.com/TechBoyn/GDUPLOAD_BOT2)
 
 ### Deploy on Qovery
 
